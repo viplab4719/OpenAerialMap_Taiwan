@@ -2,6 +2,7 @@ OpenAerialMap (OAM).Taiwan
 ===
 
 ## 什麼是 OpenAerialMap.Taiwan?
+本開源計畫於 2022.11.2 啟動，預計將開源的 OpenAerialMap 在台灣建立獨立的服務。並增加各種機器學習的地圖影像辨識功能，目前正在執行中。您可以觀看我們執行的現況。
 Imagery from satellites, unmanned aerial vehicles (UAVs) and other aircraft is becoming increasingly available after a disaster. It is often difficult to determine what is available and easily access it. OpenAerialMap (OAM) seeks to solve this by providing a **simple open way to host and provide access to imagery** for humanitarian response and disaster preparedness.
 
 ## Repositories 
