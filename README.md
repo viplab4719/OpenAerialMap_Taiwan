@@ -2,9 +2,7 @@ OpenAerialMap (OAM).Taiwan
 ===
 
 ## 什麼是 OpenAerialMap.Taiwan?
-本開源計畫於 2022.11.2 啟動，預計將開源的 OpenAerialMap 在台灣建立獨立的服務。並增加各種機器學習的地圖影像辨識功能，目前正在執行中。您可以觀看我們執行的現況。
-Imagery from satellites, unmanned aerial vehicles (UAVs) and other aircraft is becoming increasingly available after a disaster. It is often difficult to determine what is available and easily access it. OpenAerialMap (OAM) seeks to solve this by providing a **simple open way to host and provide access to imagery** for humanitarian response and disaster preparedness.
-
+本開源計畫於 2022.11.2 啟動，預計將開源的 OpenAerialMap 在台灣建立獨立的服務。並增加各種機器學習的地圖影像辨識功能，目前正在執行中。您可以觀看我們執行的現況。來自衛星、無人機 (UAV) 和其他飛機的圖像在災難發生後變得越來越容易獲得。通常很難確定可用的內容並輕鬆讀取。 OpenAerialMap (OAM) 旨在通過提供一種簡單的開放方式來託管和提供圖像以用於人道主義響應和備災，從而解決這個問題。
 ## Repositories 
 
 The following repositories are part of the OAM project:
@@ -49,21 +47,14 @@ Repositories maintained outside of the HOT Github:
 
 ## Getting Involved
 
-There are plenty of ways to get involved in OpenAerialMap! First of all, if
-you're new to the project and want to learn a bit more about its current
-design and architecture, head over to the
-[docs](http://docs.openaerialmap.org/) for an overview.
+有很多方法可以參與 OpenAerialMap！首先，如果您是該項目的新手，並且想了解更多關於其當前設計和架構的信息，請查看[docs](http://docs.openaerialmap.org/)以獲得概述。
 
 ### Ideas, Issue and Discussions
 
-The best place to jump into discussions about OpenAerialMap is on the main [issue
-tracker](https://github.com/hotosm/OpenAerialMap/issues) or individual ones for repos listed above.
+討論 OpenAerialMap 的最佳地方主要在[issue tracker](https://github.com/hotosm/OpenAerialMap/issues)或上面列出的方法。
 
-Ongoing and past converations about the project take place in the project's
-[Gitter](https://gitter.im/hotosm/OpenAerialMap?) chat room, and periodic
-updates go out on the [OAM-Talk mailing
-list](https://groups.google.com/a/hotosm.org/forum/#!forum/openaerialmap).)
+關於該項目的正在進行和過去的對話發生在項目的 [Gitter](https://gitter.im/hotosm/OpenAerialMap?) 聊天室中，並且定期更新在 [OAM-Talk mailing
+list](https://groups.google.com/a/hotosm.org/forum/#!forum/openaerialmap).)中發布。
 
-Please come join the discussion and share your ideas!
-
+歡迎加入討論和分享你的想法!
 [![Join the chat at https://gitter.im/hotosm/OpenAerialMap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hotosm/OpenAerialMap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
