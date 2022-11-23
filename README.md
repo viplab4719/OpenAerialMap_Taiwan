@@ -9,21 +9,21 @@ The following repositories are part of the OAM project:
 
 | | |
 | --- | --- |
-| [oam-api](https://github.com/hotosm/oam-api) | Catalog for indexing open imagery | 
-| [oam-browser](https://github.com/hotosm/oam-browser) | Imagery browser for searching available imagery |
-| [oam-uploader](https://github.com/hotosm/oam-uploader) | The web frontend to the OAM Uploader API |
-| [oam-uploader-api](https://github.com/hotosm/oam-uploader-api) | The OAM Uploader API server |
-| [oam-docs](https://github.com/hotosm/oam-docs) | OAM Documentation |
-| [openaerialmap.org](https://github.com/hotosm/openaerialmap.org) | Code for the OpenAerialMap.org Website |
-| [oam-design-system](https://github.com/hotosm/oam-design-system) | Style guide and UI components library |
+| [oam-api](https://github.com/hotosm/oam-api) | 用於索引開放圖像的目錄 | 
+| [oam-browser](https://github.com/hotosm/oam-browser) | 用於搜索可用圖像的圖像瀏覽器 |
+| [oam-uploader](https://github.com/hotosm/oam-uploader) | OAM Uploader API 的 Web 前端 |
+| [oam-uploader-api](https://github.com/hotosm/oam-uploader-api) | OAM 上傳器 API 服務器 |
+| [oam-docs](https://github.com/hotosm/oam-docs) | OAM 文檔 |
+| [openaerialmap.org](https://github.com/hotosm/openaerialmap.org) | OpenAerialMap.org 網站的程式碼 |
+| [oam-design-system](https://github.com/hotosm/oam-design-system) |風格指南和 UI 組件庫 |
 
 
-Repositories maintained outside of the HOT Github:
+在 HOT Github 之外維護的存儲庫:
 
 | | |
 | --- | --- |
-| [marblecutter-openaerialmap](https://github.com/mojodna/marblecutter-openaerialmap) | Python, Flask and Lambda-based dynamic tiler for S3-hosted GeoTIFFs |
-| [oam-qgis-plugin](https://github.com/yojiyojiyoji/oam_qgis3_express) | An experimental plugin for QGIS v3 to access OAM |
+| [marblecutter-openaerialmap](https://github.com/mojodna/marblecutter-openaerialmap) | 用於 S3 託管的 GeoTIFF 的基於 Python、Flask 和 Lambda 的動態切片器 |
+| [oam-qgis-plugin](https://github.com/yojiyojiyoji/oam_qgis3_express) | 一個實驗性的插件使 QGIS v3 連接到 OAM |
 
 
 ### Deprecated repositories
