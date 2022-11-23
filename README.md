@@ -30,20 +30,20 @@ The following repositories are part of the OAM project:
 
 | | |
 | --- | --- |
-| [oam-server](https://github.com/hotosm/oam-server) | Main repository for imagery processing and tile service creation tools |
-| [oam-server-tiler](https://github.com/hotosm/oam-server-tiler) | OAM Server tile engine |
-| [oam-server-activities](https://github.com/hotosm/oam-server-activities) | SWFR Activities component for OAM Server |
-| [oam-server-decider](https://github.com/hotosm/oam-server-decider) | SWF Decider component of OAM Server (using oam-server-tiler instead) |
+| [oam-server](https://github.com/hotosm/oam-server) | 圖像處理和切片服務創建工具的主要存儲庫 |
+| [oam-server-tiler](https://github.com/hotosm/oam-server-tiler) | OAM 服務器引擎 |
+| [oam-server-activities](https://github.com/hotosm/oam-server-activities) | OAM 服務器的 SWFR 活動組件 |
+| [oam-server-decider](https://github.com/hotosm/oam-server-decider) | OAM Server 的 SWF Decider 組件 (using oam-server-tiler instead) |
 | [oam-server-api](https://github.com/hotosm/oam-server-api) | OAM Server API |
-| [oam-server-cli](https://github.com/hotosm/oam-server-cli) | A command line utility for interacting with the OAM Server API |
-| [oam-server-deployment](https://github.com/hotosm/oam-server-deployment) | Amazon Web Services deployment tooling OAM Server |
-| [oam-server-publisher](https://github.com/hotosm/oam-server-publisher) | Status publishing component of OAM Server |
-| [oam-catalog-grid](https://github.com/hotosm/oam-catalog-grid) | Generate a vector tile grid from the OAM catalog |
-| [oam-browser-filters](https://github.com/hotosm/oam-browser-filters) | The grid filters used by the oam-browser front end |
-| [oam-uploader-admin](https://github.com/hotosm/oam-uploader-admin) | OAM uploader admin interface |
-| [oam-status](https://github.com/hotosm/oam-status) | A simple status dashboard for oam-catalog |
-| [oam-dynamic-tiler](https://github.com/hotosm/oam-dynamic-tiler) | Python, Flask and Lambda-based dynamic tiler for S3-hosted GeoTIFFs
-| [oam-qgis-plugin](https://github.com/hotosm/oam-qgis-plugin) | An experimental plugin for QGIS to access OAM |
+| [oam-server-cli](https://github.com/hotosm/oam-server-cli) | 用於與 OAM 伺服器 API 交互的命令程序 |
+| [oam-server-deployment](https://github.com/hotosm/oam-server-deployment) | Amazon Web Services 部署工具 OAM Server |
+| [oam-server-publisher](https://github.com/hotosm/oam-server-publisher) | OAM Server 狀態發布組件 |
+| [oam-catalog-grid](https://github.com/hotosm/oam-catalog-grid) | 從 OAM 目錄生成向量切片網格|
+| [oam-browser-filters](https://github.com/hotosm/oam-browser-filters) | oam-browser 前端使用的網格過濾器 |
+| [oam-uploader-admin](https://github.com/hotosm/oam-uploader-admin) | OAM 上傳器管理界面 |
+| [oam-status](https://github.com/hotosm/oam-status) | oam-catalog 的簡單狀態儀表板 |
+| [oam-dynamic-tiler](https://github.com/hotosm/oam-dynamic-tiler) | 用於 S3 託管的 GeoTIFF 的基於 Python、Flask 和 Lambda 的動態切片器 |
+| [oam-qgis-plugin](https://github.com/hotosm/oam-qgis-plugin) | 一個實驗性的插件使 QGIS v3 連接到 OAM  |
 
 ## Getting Involved
 
